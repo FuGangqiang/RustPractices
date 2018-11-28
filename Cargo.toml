@@ -1,0 +1,8 @@
+[package]
+name = "practices"
+version = "0.0.0"
+authors = ["FuGangqiang <fu_gangqiang@qq.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
