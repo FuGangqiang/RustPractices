@@ -3,3 +3,4 @@
 
 pub mod clrs;
 pub mod sorting;
+pub mod structure;
