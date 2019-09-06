@@ -1,4 +1,4 @@
-use std::ptr::NonNull;
+use core::ptr::NonNull;
 
 pub struct Stack<T> {
     head: Option<NonNull<Node<T>>>,

@@ -1,4 +1,4 @@
-use std::ptr::NonNull;
+use core::ptr::NonNull;
 
 pub struct Deque<T> {
     head: Option<NonNull<Node<T>>>,
